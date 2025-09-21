@@ -1,7 +1,7 @@
 # Admission_Prediction_using_Machine_Learning By Zahra Shahid
 
 
-"""# **Import libraries**"""
+"""# **Import books**"""
 
 import pandas as pd
 import seaborn as sns
